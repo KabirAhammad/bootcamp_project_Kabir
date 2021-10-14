@@ -28,7 +28,7 @@ void draw () {
   scale(1);
   sphere(100);
   popMatrix();
-/*
+
   pushMatrix();
   rotateY(radians(angle));
   fill(0, 255, 0);
@@ -68,7 +68,7 @@ pushMatrix();
   translate(100, 200);
   sphere(40);
   popMatrix();
-  */
+  
   
   pushMatrix();
   rotateY(radians(theta2));
